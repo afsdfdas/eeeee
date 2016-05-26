@@ -21,6 +21,7 @@
     //2.push的时候,是根据你的commit的记录进行push的,每次push之前,要先把修改后的内容进行提交,如果不commit,直接push,导致心内容无法push到远程仓库.
     NSLog(@"这是第一行代码");
     NSLog(@"这是第二行代码");
+    NSLog(@"完成修改");
 }
 
 - (void)didReceiveMemoryWarning {
