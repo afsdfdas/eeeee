@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"这是第一行代码");
+    NSLog(@"这是第二行代码");
 }
 
 - (void)didReceiveMemoryWarning {
